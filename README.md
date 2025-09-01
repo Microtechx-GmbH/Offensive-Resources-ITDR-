@@ -3,9 +3,12 @@ These are the resources you'll be using for learning ENTRA ID and Access managem
 
 ## 1. [Azure Master Class v3 - Part 2 - Identity (John Savill's Technical Training)](https://www.youtube.com/watch?v=megA6BPpYqo&t=214s&ab_channel=JohnSavill%27sTechnicalTraining)
 
+
 **Type:** Video (2h 28m)  
 **Description:** Deep technical masterclass on Microsoft Entra ID and identity management in Azure. Covers topics such as identity basics, authentication, authorization, Entra ID objects, synchronization between Active Directory and Entra ID, conditional access, privileged identity management, MFA, external identities, entitlement management, internet/private access, and Azure AD Domain Services. Excellent for foundational to advanced understanding of identities in Azure.  
 **Use case:** Training video for setting up and managing Azure identities, understanding Entra ID features and security best practices.
+
+
 https://docs.horizon3.ai/portal/test_types/azure_entra_id/
 ---
 
