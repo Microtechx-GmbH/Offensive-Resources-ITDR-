@@ -1,14 +1,8 @@
-# Offensive-Resources-ITDR-
-These are the resources you'll be using for learning ENTRA ID and Access management along with Offensive Security practices.
-
-## 1. [Azure Master Class v3 - Part 2 - Identity (John Savill's Technical Training)](https://www.youtube.com/watch?v=megA6BPpYqo&t=214s&ab_channel=JohnSavill%27sTechnicalTraining)
-
+# 1. [Azure Master Class v3 - Part 2 - Identity (John Savill's Technical Training)](https://www.youtube.com/watch?v=megA6BPpYqo&t=214s&ab_channel=JohnSavill%27sTechnicalTraining)
 
 **Type:** Video (2h 28m)  
 **Description:** Deep technical masterclass on Microsoft Entra ID and identity management in Azure. Covers topics such as identity basics, authentication, authorization, Entra ID objects, synchronization between Active Directory and Entra ID, conditional access, privileged identity management, MFA, external identities, entitlement management, internet/private access, and Azure AD Domain Services. Excellent for foundational to advanced understanding of identities in Azure.  
 **Use case:** Training video for setting up and managing Azure identities, understanding Entra ID features and security best practices.
-
-
 https://docs.horizon3.ai/portal/test_types/azure_entra_id/
 ---
 
@@ -250,3 +244,178 @@ https://docs.horizon3.ai/portal/test_types/azure_entra_id/
 **Type:** Interactive Visualization Tool  
 **Description:** The online ATLAS Navigator is an interactive tool that visually maps the MITRE ATLAS adversarial AI tactics and techniques. Users can explore the matrix dynamically, gain detailed technique information, and view attack scenarios against AI-enabled systems. It supports security architects, red teams, and AI engineers in exploring and understanding AI threat landscapes interactively.  
 **Use case:** Practical visualization and exploration tool for AI security threat modeling, training, and strategic planning.
+Here is the metadata catalog for the new set of links, organized for useful reference and learning:
+
+---
+
+## 29. [Zero Trust Presentation - Microsoft Entra Internet Access & Private Access (PDF)](https://memug.org/wp-content/uploads/2023/10/Internet-Access-and-Private-Access-Customer-Presentation-L200-Global-Secure-Access.pdf)
+
+**Type:** Presentation / Technical Overview  
+**Description:** Detailed presentation covering Microsoft’s identity-centric Security Service Edge (SSE) solutions, including Microsoft Entra Internet Access (Secure Web Gateway) and Microsoft Entra Private Access (Zero Trust Network Access). Addresses legacy security challenges, solution architecture, identity integration, conditional access, and continuous access evaluation for internet and private app access.  
+**Use case:** Reference for Zero Trust SSE solution concepts and deployment models in Azure environments protecting internet and private applications.
+
+---
+
+## 30. [LinkedIn Post: Steve’s Cybersecurity Resources](https://www.linkedin.com/pulse/steves-cybersecurity-resources-62424-steve-turner-geare)
+
+**Type:** Curated Resource Collection  
+**Description:** Extensive community-curated cybersecurity resource list covering topics from identity, infrastructure security, cloud security, incident response, to zero trust and threat intelligence. Includes book recommendations, toolsets, frameworks, certification guides, and online training references.  
+**Use case:** Broad spectrum security resources for continuous learning and reference across various cybersecurity domains including identity security.
+
+---
+
+## 31. [Microsoft Zero Trust Assessment and Workshop](https://microsoft.github.io/zerotrustassessment/)
+
+**Type:** Interactive Tool / Workshop  
+**Description:** Microsoft’s Zero Trust Assessment and Workshop guide assists organizations in evaluating their Zero Trust maturity. It provides assessment frameworks, actionable recommendations, and integration points with Microsoft’s security solutions including identity, device, network, and data protection.  
+**Use case:** Hands-on maturity assessment and planning tool to align identity security with Zero Trust principles for enterprise readiness.
+
+---
+
+## 32. [Microsoft Chief Information Security Officer (CISO) Workshop](https://learn.microsoft.com/en-us/security/adoption/ciso-workshop)
+
+**Type:** Training Workshop  
+**Description:** Comprehensive workshop designed for CISOs focusing on security strategy, risk management, and technical leadership with emphasis on modern identity security, threat detection, and compliance frameworks using Microsoft security technologies.  
+**Use case:** Executive-level security strategy training, ideal for CISOs and security leadership aligning identity security programs with enterprise risk posture.
+
+---
+
+## 33. [Comparing Microsoft Entra Legacy vs Modern MFA Methods](https://techdocweb.com/2025/08/25/comparing-microsoft-entra-legacy-vs-modern-mfa-methods/)
+
+**Type:** Article/Blog  
+**Description:** In-depth comparison of legacy multi-factor authentication (MFA) methods versus modern architectures and techniques within Microsoft Entra. Highlights improvements, deprecated methods, security benefits, and migration guidance.  
+**Use case:** Reference for planning and migrating MFA deployments in Microsoft Entra environments with modern security capabilities.
+
+---
+
+## 34. [Azure Overlapping Network Design, VNET-to-VNET NAT – Hansen Cloud](https://hansencloud.com/2024/07/17/azure-large-overlapping-network-design-vnet-to-vnet-nat/)
+
+**Type:** Technical Blog  
+**Description:** Practical design and implementation guide for handling large Azure networks with overlapping IP address spaces using VNET-to-VNET NAT configurations.  
+**Use case:** Network architecture reference for identity/security engineers designing complex Azure networking for secure identity services.
+
+---
+
+## 35. [Microsoft Zero Trust Platforms Forrester Report (2025)](https://www.microsoft.com/en-us/security/blog/2025/07/10/forrester-names-microsoft-a-leader-in-the-2025-zero-trust-platforms-wave-report/)
+
+**Type:** Industry Report / News  
+**Description:** Announcement and summary of Microsoft being named a leader in Forrester’s 2025 Zero Trust Platforms Wave report. Emphasizes Microsoft’s leadership in identity, endpoint, network, and data protection capabilities.  
+**Use case:** Industry perspective and validation for adopting Microsoft identity and Zero Trust security solutions.
+
+---
+
+## 36. [Microsoft Security Community Webinars - Security Ninja Series](https://techcommunity.microsoft.com/blog/microsoft-security-blog/recordings--security-community-webinars/2865990)
+
+**Type:** Webinar Recordings  
+**Description:** Collection of Microsoft security community webinars covering a range of cybersecurity topics including identity protection, threat intelligence, and Zero Trust best practices.  
+**Use case:** Ongoing education resource with real-world security discussions and demos.
+
+---
+
+## 37. [msftvulndrivers.bluraven.io](https://msftvulndrivers.bluraven.io/)
+
+**Type:** Vulnerability Database or Tool (Details Limited)  
+**Description:** Link to a resource likely focused on Microsoft vulnerability drivers, exploits, or research. (Further investigation recommended based on specific interest.)  
+**Use case:** Potential research or offensive security tool/resource related to Microsoft security.
+
+---
+
+## 38. [Illumant - Security Consulting](https://www.illumant.com/)
+
+**Type:** Cybersecurity Consulting Services  
+**Description:** Professional cybersecurity consulting, penetration testing, and advisory firm specializing in cloud security, identity protection, and risk management.  
+**Use case:** External consulting partner or knowledge resource for identity and cloud security projects.
+
+---
+
+## 39. [Web App Testing: Episode 1 - Enumeration (YouTube)](https://www.youtube.com/watch?v=ZBi8Qa9m5c0&list=PLLKT__MCUeixCoi2jtP2Jj8nZzM4MOzBL)
+
+**Type:** Tutorial Video  
+**Description:** First episode in a series demonstrating web application penetration testing techniques, starting with enumeration.  
+**Use case:** Practical video for learning web app and associated identity attack surface reconnaissance.
+
+---
+
+## 40. [YouTube Video: Cybersecurity Related (URL Only)](https://www.youtube.com/watch?v=uTcrbNBcoxQ)
+
+**Type:** Video (Content unspecified)  
+**Description:** Video content related to cybersecurity or identity topics. Further review needed for specific focus.  
+**Use case:** Supplementary video-based learning (subject to review).
+
+---
+
+## 41. [Ethical Hacking in 15 Hours - 2023 Edition (Part 1)](https://www.youtube.com/watch?v=3FNYvj2U0HM&list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47)
+
+**Type:** Video Course  
+**Description:** Fast-paced comprehensive ethical hacking course covering essential penetration testing and cybersecurity skills.  
+**Use case:** Broad ethical hacking foundational learning including potential identity attack vectors.
+
+---
+
+## 42. [Full Ethical Hacking Course - Beginner Network Penetration Testing (2019)](https://www.youtube.com/watch?v=WnN6dbos5u8)
+
+**Type:** Video Course  
+**Description:** Beginner-level network pentesting course covering fundamental hacking concepts and techniques.  
+**Use case:** Foundational network security knowledge supporting identity security context.
+
+---
+
+## 43. [hmaverickadams/Beginner-Network-Pentesting GitHub Notes](https://github.com/hmaverickadams/Beginner-Network-Pentesting)
+
+**Type:** GitHub Repository / Notes  
+**Description:** Structured notes and resources for a beginner-level network penetration testing course.  
+**Use case:** Supplementary reference for hands-on network security learning.
+
+---
+
+## 44. [rootsecdev/Azure-Red-Team: Azure Security Resources and Notes](https://github.com/rootsecdev/Azure-Red-Team)
+
+**Type:** GitHub Repository  
+**Description:** Collection of Azure Red Team offensive security resources, scripts, and notes focused on identity and access compromise techniques.  
+**Use case:** Offensive security study and lab resource for Azure identity and infrastructure attack simulation.
+
+---
+
+## 45. [azurekid/blackcat: PowerShell Security Validation Module](https://github.com/azurekid/blackcat)
+
+**Type:** GitHub Repository / Tool  
+**Description:** PowerShell module designed to validate Microsoft Azure security configurations, including identity and access security postures.  
+**Use case:** Tool for automated security validation in Microsoft Azure tenant environments.
+
+---
+
+## 46. [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear)
+
+**Type:** GitHub Repository / Security Toolset  
+**Description:** Security toolset developed by CISA for cloud and application security posture management and auditing.  
+**Use case:** Security auditing framework applicable to identity and cloud security.
+
+---
+
+## 47. [Azure/review-checklists](https://github.com/Azure/review-checklists)
+
+**Type:** GitHub Repository / Best Practices  
+**Description:** Repository containing checklists and best practices for Azure subscription and resource security reviews.  
+**Use case:** Reference for security assessment and compliance checks in Azure identity and resource management.
+
+---
+
+## 48. [Build a DevSecOps Pipeline - YouTube Playlist](https://www.youtube.com/playlist?list=PLrsbMazVPK_pt9u_PiTGAb3s9aw8ashvQ)
+
+**Type:** Video Playlist  
+**Description:** Step-by-step guide to building secure development pipelines integrating security best practices.  
+**Use case:** Learning DevSecOps practices with potential integration with identity and access management.
+
+---
+
+## 49. [Adaptix Framework C2 - GitHub](https://github.com/Adaptix-Framework/AdaptixC2?tab=readme-ov-file)
+
+**Type:** GitHub Repository / Command & Control Framework  
+**Description:** Adaptix is a modular C2 framework used for red teaming engagements including identity attacks and lateral movement in cloud and enterprise environments.  
+**Use case:** Tool for offensive security professionals focusing on command and control and post-exploitation including identity contexts.
+
+---
+
+If needed, a learning or usage schedule can be provided for these as well.
+
+1. [https://memug.org/wp-content/uploads/2023/10/Internet-Access-and-Private-Access-Customer-Presentation-L200-Global-Secure-Access.pdf](https://memug.org/wp-content/uploads/2023/10/Internet-Access-and-Private-Access-Customer-Presentation-L200-Global-Secure-Access.pdf)
